@@ -1,0 +1,17 @@
+# source downloads and build outputs (large; the dataset is on Zenodo)
+원본 저장/
+초중등/
+고등/
+통합본/
+english/
+done.json
+edss_download.log
+수집현황.csv
+개방데이터목록.json
+scripts/translations/_value_scan.json
+scripts/translations/_values_todo.tsv
+*.part
+# editor and OS files
+__pycache__/
+.omc/
+.DS_Store

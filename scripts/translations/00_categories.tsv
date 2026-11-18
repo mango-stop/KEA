@@ -1,0 +1,10 @@
+# Source folders of the collector (초중등, 고등; internal only, not release archives) and English names of the portal tabs. Each tab is released as <category_en>.zip
+collection_ko	collection_en	category_ko	category_en
+초중등	k12	교육통계	edu_statistics
+초중등	k12	학교정보공시	school_disclosure
+초중등	k12	특수교육	special_education
+고등	higher_ed	고등교육통계	higher_ed_statistics
+고등	higher_ed	대학정보공시	university_disclosure
+고등	higher_ed	취업통계	employment_statistics
+고등	higher_ed	평생교육통계	lifelong_edu_statistics
+고등	higher_ed	K-에듀파인	k_edufine

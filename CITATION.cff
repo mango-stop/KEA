@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, and cite the source (Ministry of Education and KERIS, EDSS Open Data)."
+type: dataset
+title: "KEA: An English-labelled archive of Korean open education data on schools, universities and school finance"
+version: "1.0"
+date-released: "2026-11-19"
+doi: "10.5281/zenodo.24185556"
+license: CC-BY-4.0
+authors:
+  - family-names: Myung
+    given-names: Sejin
+    affiliation: "Changwon National University"
+  - family-names: Na
+    given-names: Hyungjong
+    affiliation: "Semyung University"
+  - family-names: Lim
+    given-names: Minsoo
+    affiliation: "Changwon National University"
+  - family-names: Hong
+    given-names: Hwa Su
+    affiliation: "Changwon National University"
+  - family-names: Lee
+    given-names: JangYoun
+    affiliation: "JNE WORKS Co., Ltd."
+  - family-names: Jo
+    given-names: Donghyun
+    affiliation: "JNE WORKS Co., Ltd."
+  - family-names: Kim
+    given-names: Hyungjoon
+    affiliation: "Changwon National University"
+    email: "hyungjoon@changwon.ac.kr"
+repository-code: "https://github.com/mango-stop/KEA"
+url: "https://doi.org/10.5281/zenodo.24185556"
+keywords:
+  - education statistics
+  - school information disclosure
+  - higher education
+  - Korea
+  - open government data
+  - EDSS
+references:
+  - type: dataset
+    title: "EduData Service System (EDSS) Open Data"
+    authors:
+      - name: "Ministry of Education, Republic of Korea"
+      - name: "Korea Education and Research Information Service (KERIS)"
+    url: "https://www.edmgr.kr"
+    date-accessed: "2026-09-09"

@@ -1,0 +1,160 @@
+﻿id,kind,ko,en,ctx_ko,ctx_en,missing,source,orig_id
+S0001,value,공업계공통,industrial_common,계열구분명(track_type_name) 열의 범주값,category level of column track_type_name,N,added_after_full_read,
+S0002,value,원천코드오류,source_code_error,고등학교유형명(high_school_category_name) 열의 범주값,category level of column high_school_category_name,Y,added_after_full_read,
+S0003,value,원천코드오류,source_code_error,고등학교일반실업구분명(high_school_general_vocational_type_name) 열의 범주값,category level of column high_school_general_vocational_type_name,Y,added_after_full_read,
+S0004,value,가사・실업,home_economics_vocational,과목구분명(subject_type_name) 열의 범주값,category level of column subject_type_name,N,added_after_full_read,
+S0005,value,17개월,17_months,교육기간구분명(education_period_type_name) 열의 범주값,category level of column education_period_type_name,N,added_after_full_read,
+S0006,value,19개월,19_months,교육기간구분명(education_period_type_name) 열의 범주값,category level of column education_period_type_name,N,added_after_full_read,
+S0007,value,21개월,21_months,교육기간구분명(education_period_type_name) 열의 범주값,category level of column education_period_type_name,N,added_after_full_read,
+S0008,value,22개월,22_months,교육기간구분명(education_period_type_name) 열의 범주값,category level of column education_period_type_name,N,added_after_full_read,
+S0009,value,23개월,23_months,교육기간구분명(education_period_type_name) 열의 범주값,category level of column education_period_type_name,N,added_after_full_read,
+S0010,value,m,metre,단위구분명(unit_type_name) 열의 범주값,category level of column unit_type_name,N,added_after_full_read,
+S0011,value,㎡,square_metre,단위구분명(unit_type_name) 열의 범주값,category level of column unit_type_name,N,added_after_full_read,
+S0012,value,㎥,cubic_metre,단위구분명(unit_type_name) 열의 범주값,category level of column unit_type_name,N,added_after_full_read,
+S0013,value,-,dash_no_value,담임구분명(2018년이후)(homeroom_type_name_since_2018) 열의 범주값,category level of column homeroom_type_name_since_2018,Y,added_after_full_read,
+S0014,value,입학생(기타),entrant_other,대상자입학생구분명(eligible_entrant_type_name) 열의 범주값,category level of column eligible_entrant_type_name,N,added_after_full_read,
+S0015,value,_,underscore_no_value,대학교연령명(university_age_name) 열의 범주값,category level of column university_age_name,Y,added_after_full_read,
+S0016,value,-,dash_no_value,사립대학기숙사형태구분명(private_univ_dormitory_type_name) 열의 범주값,category level of column private_univ_dormitory_type_name,Y,added_after_full_read,
+S0017,value,250,country_code_250,생산국가명(country_of_manufacture_name) 열의 범주값,category level of column country_of_manufacture_name,N,added_after_full_read,
+S0018,value,276,country_code_276,생산국가명(country_of_manufacture_name) 열의 범주값,category level of column country_of_manufacture_name,N,added_after_full_read,
+S0019,value,300,country_code_300,생산국가명(country_of_manufacture_name) 열의 범주값,category level of column country_of_manufacture_name,N,added_after_full_read,
+S0020,value,392,country_code_392,생산국가명(country_of_manufacture_name) 열의 범주값,category level of column country_of_manufacture_name,N,added_after_full_read,
+S0021,value,410,country_code_410,생산국가명(country_of_manufacture_name) 열의 범주값,category level of column country_of_manufacture_name,N,added_after_full_read,
+S0022,value,500,country_code_500,생산국가명(country_of_manufacture_name) 열의 범주값,category level of column country_of_manufacture_name,N,added_after_full_read,
+S0023,value,600,country_code_600,생산국가명(country_of_manufacture_name) 열의 범주값,category level of column country_of_manufacture_name,N,added_after_full_read,
+S0024,value,826,country_code_826,생산국가명(country_of_manufacture_name) 열의 범주값,category level of column country_of_manufacture_name,N,added_after_full_read,
+S0025,value,840,country_code_840,생산국가명(country_of_manufacture_name) 열의 범주값,category level of column country_of_manufacture_name,N,added_after_full_read,
+S0026,value,FRP,fibre_reinforced_plastic,선박재질명(vessel_material_name) 열의 범주값,category level of column vessel_material_name,N,added_after_full_read,
+S0027,value,기부 및 후원금,donations_and_sponsorship,세입관명(revenue_chapter_name) 열의 범주값,category level of column revenue_chapter_name,N,added_after_full_read,
+S0028,value,지연수납수입,late_payment_revenue,세입관명(revenue_chapter_name) 열의 범주값,category level of column revenue_chapter_name,N,added_after_full_read,
+S0029,value,코드오류,code_error,세입관명(revenue_chapter_name) 열의 범주값,category level of column revenue_chapter_name,N,added_after_full_read,
+S0030,value,코드오류,code_error,세입장명(revenue_section_name) 열의 범주값,category level of column revenue_section_name,N,added_after_full_read,
+S0031,value,예비비,reserve_fund_contingency,세출목그룹명(expenditure_item_group_name) 열의 범주값,category level of column expenditure_item_group_name,N,added_after_full_read,
+S0032,value,예비비,reserve_fund_contingency,세출목명(expenditure_item_name) 열의 범주값,category level of column expenditure_item_name,N,added_after_full_read,
+S0033,value,토지매입비,land_purchase_cost,세출목명(expenditure_item_name) 열의 범주값,category level of column expenditure_item_name,N,added_after_full_read,
+S0034,value,해당없음,not_applicable,수업연한명(program_duration_name) 열의 범주값,category level of column program_duration_name,Y,added_after_full_read,
+S0035,value,-,dash_no_value,수업전담교원여부명(2018년이후)(subject_specialist_teacher_status_name_since_2018) 열의 범주값,category level of column subject_specialist_teacher_status_name_since_2018,Y,added_after_full_read,
+S0036,value,A,grade_a,안전성등급명(safety_grade_name) 열의 범주값,category level of column safety_grade_name,N,added_after_full_read,
+S0037,value,B,grade_b,안전성등급명(safety_grade_name) 열의 범주값,category level of column safety_grade_name,N,added_after_full_read,
+S0038,value,C,grade_c,안전성등급명(safety_grade_name) 열의 범주값,category level of column safety_grade_name,N,added_after_full_read,
+S0039,value,D,grade_d,안전성등급명(safety_grade_name) 열의 범주값,category level of column safety_grade_name,N,added_after_full_read,
+S0040,value,E,grade_e,안전성등급명(safety_grade_name) 열의 범주값,category level of column safety_grade_name,N,added_after_full_read,
+S0041,value,원천코드오류,source_code_error,안전성등급명(safety_grade_name) 열의 범주값,category level of column safety_grade_name,Y,added_after_full_read,
+S0042,value,수도토목,waterworks_civil_engineering,일반직복수직렬명1(general_service_multiple_job_series_name_1) 열의 범주값,category level of column general_service_multiple_job_series_name_1,N,added_after_full_read,
+S0043,value,학예연구,curatorial_research,일반직복수직렬명1(general_service_multiple_job_series_name_1) 열의 범주값,category level of column general_service_multiple_job_series_name_1,N,added_after_full_read,
+S0044,value,위생,sanitation,일반직복수직렬명2(general_service_multiple_job_series_name_2) 열의 범주값,category level of column general_service_multiple_job_series_name_2,N,added_after_full_read,
+S0045,value,조리,cooking,일반직복수직렬명2(general_service_multiple_job_series_name_2) 열의 범주값,category level of column general_service_multiple_job_series_name_2,N,added_after_full_read,
+S0046,value,통신운영,communication_operation,일반직복수직렬명2(general_service_multiple_job_series_name_2) 열의 범주값,category level of column general_service_multiple_job_series_name_2,N,added_after_full_read,
+S0047,value,간호,nursing,일반직복수직렬명3(general_service_multiple_job_series_name_3) 열의 범주값,category level of column general_service_multiple_job_series_name_3,N,added_after_full_read,
+S0048,value,교육행정,education_administration,일반직복수직렬명3(general_service_multiple_job_series_name_3) 열의 범주값,category level of column general_service_multiple_job_series_name_3,N,added_after_full_read,
+S0049,value,전기운영,electrical_operation,일반직복수직렬명3(general_service_multiple_job_series_name_3) 열의 범주값,category level of column general_service_multiple_job_series_name_3,N,added_after_full_read,
+S0050,value,고등기술학교,higher_technical_school,적용대상학교구분명(applicable_school_type_name) 열의 범주값,category level of column applicable_school_type_name,N,added_after_full_read,
+S0051,value,-,dash_no_value,전형유형명(admission_track_category_name) 열의 범주값,category level of column admission_track_category_name,Y,added_after_full_read,
+S0052,value,0,zero_code,전형유형명(admission_track_category_name) 열의 범주값,category level of column admission_track_category_name,N,added_after_full_read,
+S0053,value,},brace_no_value,전형유형명(admission_track_category_name) 열의 범주값,category level of column admission_track_category_name,Y,added_after_full_read,
+S0054,value,-,dash_no_value,특수각종학교수업과정구분명(special_misc_school_program_type_name) 열의 범주값,category level of column special_misc_school_program_type_name,Y,added_after_full_read,
+S0055,value,공업,industrial,편제분류명4(organization_classification_name_4) 열의 범주값,category level of column organization_classification_name_4,N,added_after_full_read,
+S0056,value,과학,science,편제분류명4(organization_classification_name_4) 열의 범주값,category level of column organization_classification_name_4,N,added_after_full_read,
+S0057,value,교양,general_education,편제분류명4(organization_classification_name_4) 열의 범주값,category level of column organization_classification_name_4,N,added_after_full_read,
+S0058,value,국어,korean_language,편제분류명4(organization_classification_name_4) 열의 범주값,category level of column organization_classification_name_4,N,added_after_full_read,
+S0059,value,기술?가정(실과),technology_home_economics_practical_arts,편제분류명4(organization_classification_name_4) 열의 범주값,category level of column organization_classification_name_4,N,added_after_full_read,
+S0060,value,농업,agriculture,편제분류명4(organization_classification_name_4) 열의 범주값,category level of column organization_classification_name_4,N,added_after_full_read,
+S0061,value,도덕,ethics,편제분류명4(organization_classification_name_4) 열의 범주값,category level of column organization_classification_name_4,N,added_after_full_read,
+S0062,value,미술,art,편제분류명4(organization_classification_name_4) 열의 범주값,category level of column organization_classification_name_4,N,added_after_full_read,
+S0063,value,사회,social_studies,편제분류명4(organization_classification_name_4) 열의 범주값,category level of column organization_classification_name_4,N,added_after_full_read,
+S0064,value,외국어,foreign_language,편제분류명4(organization_classification_name_4) 열의 범주값,category level of column organization_classification_name_4,N,added_after_full_read,
+S0065,value,음악,music,편제분류명4(organization_classification_name_4) 열의 범주값,category level of column organization_classification_name_4,N,added_after_full_read,
+S0066,value,체육,physical_education,편제분류명4(organization_classification_name_4) 열의 범주값,category level of column organization_classification_name_4,N,added_after_full_read,
+S0067,value,1년제과정,one_year_programme,편제분류명5(organization_classification_name_5) 열의 범주값,category level of column organization_classification_name_5,N,added_after_full_read,
+S0068,value,3년제과정,three_year_programme,편제분류명5(organization_classification_name_5) 열의 범주값,category level of column organization_classification_name_5,N,added_after_full_read,
+S0069,value,공업,industrial,편제분류명5(organization_classification_name_5) 열의 범주값,category level of column organization_classification_name_5,N,added_after_full_read,
+S0070,value,과학,science,편제분류명5(organization_classification_name_5) 열의 범주값,category level of column organization_classification_name_5,N,added_after_full_read,
+S0071,value,교양,general_education,편제분류명5(organization_classification_name_5) 열의 범주값,category level of column organization_classification_name_5,N,added_after_full_read,
+S0072,value,국어,korean_language,편제분류명5(organization_classification_name_5) 열의 범주값,category level of column organization_classification_name_5,N,added_after_full_read,
+S0073,value,기술?가정(실과),technology_home_economics_practical_arts,편제분류명5(organization_classification_name_5) 열의 범주값,category level of column organization_classification_name_5,N,added_after_full_read,
+S0074,value,농업,agriculture,편제분류명5(organization_classification_name_5) 열의 범주값,category level of column organization_classification_name_5,N,added_after_full_read,
+S0075,value,도덕,ethics,편제분류명5(organization_classification_name_5) 열의 범주값,category level of column organization_classification_name_5,N,added_after_full_read,
+S0076,value,미술,art,편제분류명5(organization_classification_name_5) 열의 범주값,category level of column organization_classification_name_5,N,added_after_full_read,
+S0077,value,사회,social_studies,편제분류명5(organization_classification_name_5) 열의 범주값,category level of column organization_classification_name_5,N,added_after_full_read,
+S0078,value,외국어,foreign_language,편제분류명5(organization_classification_name_5) 열의 범주값,category level of column organization_classification_name_5,N,added_after_full_read,
+S0079,value,음악,music,편제분류명5(organization_classification_name_5) 열의 범주값,category level of column organization_classification_name_5,N,added_after_full_read,
+S0080,value,체육,physical_education,편제분류명5(organization_classification_name_5) 열의 범주값,category level of column organization_classification_name_5,N,added_after_full_read,
+S0081,value,-,dash_no_value,폭력예방교육종류명(violence_prevention_education_type_name) 열의 범주값,category level of column violence_prevention_education_type_name,Y,added_after_full_read,
+S0082,value,-,dash_no_value,프로그램대분류명(program_major_category_name) 열의 범주값,category level of column program_major_category_name,Y,added_after_full_read,
+S0083,value,-,dash_no_value,프로그램중분류명(program_middle_category_name) 열의 범주값,category level of column program_middle_category_name,Y,added_after_full_read,
+S0084,column,교원발령및부전공_교원수,teacher_appointment_and_minor_subject_teacher_count,교원발령및부전공_교직원 데이터셋의 열 (교육통계 / 교직원),column of dataset teacher_appointment_and_minor_staff (edu_statistics / faculty_staff),,corrected_label,T00657
+S0085,column,교비특회_예결산_예산금액,edu_expense_special_account_budget_amount,교육비특별회계예결산_재정 데이터셋의 열 (교육통계 / 재정),column of dataset special_edu_account_budget_settlement_finance (edu_statistics / finance),,corrected_label,T00876
+S0086,column,교비특회_예결산_결산금액,edu_expense_special_account_settlement_amount,교육비특별회계예결산_재정 데이터셋의 열 (교육통계 / 재정),column of dataset special_edu_account_budget_settlement_finance (edu_statistics / finance),,corrected_label,T00877
+S0087,column,교육비특별회계보조사업명,edu_expense_special_account_subsidy_project_name,국고교부금집행실적 데이터셋의 열 (K-에듀파인 / 교부금),column of dataset national_grant_execution_record (k_edufine / grants),,corrected_label,T02903
+S0088,column,교육비특별회계불용내역_불용금액,edu_expense_special_account_unused_amount,교육비특별회계불용내역 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_unused_details (k_edufine / financial_accounting),,corrected_label,T03131
+S0089,column,교비특별회계세입예산결산_미수납금액,edu_expense_special_account_revenue_uncollected_amount,교육비특별회계세입(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_revenue_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03133
+S0090,column,교비특별회계세입예산결산_불납결손금액,edu_expense_special_account_revenue_uncollectible_loss_amount,교육비특별회계세입(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_revenue_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03134
+S0091,column,교비특별회계세입예산결산_수납금액,edu_expense_special_account_revenue_collected_amount,교육비특별회계세입(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_revenue_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03135
+S0092,column,교비특별회계세입예산결산_징수결정금액,edu_expense_special_account_revenue_levy_determined_amount,교육비특별회계세입(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_revenue_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03136
+S0093,column,교비특별회계세입예산결산_현재예산금액,edu_expense_special_account_revenue_current_budget_amount,교육비특별회계세입(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_revenue_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03137
+S0094,column,교비특별회계세입예산결산_최종예산금액,edu_expense_special_account_revenue_final_budget_amount,교육비특별회계세입(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_revenue_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03138
+S0095,column,교비특별회계세입예산결산_성립전예산금액,edu_expense_special_account_revenue_pre_establishment_budget_amount,교육비특별회계세입(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_revenue_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03139
+S0096,column,교비특별회계세입예산결산_추경예산금액,edu_expense_special_account_revenue_supplementary_budget_amount,교육비특별회계세입(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_revenue_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03140
+S0097,column,교비특별회계세입예산결산_최초예산금액,edu_expense_special_account_revenue_initial_budget_amount,교육비특별회계세입(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_revenue_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03141
+S0098,column,교비특회세입세출외현금수납_총환급금액,edu_expense_special_account_non_budget_cash_total_refund_amount,교육비특별회계세입세출외현금수납 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_non_budget_cash_collection (k_edufine / financial_accounting),,corrected_label,T03144
+S0099,column,교비특회세입세출외현금수납_수납금액,edu_expense_special_account_non_budget_cash_collected_amount,교육비특별회계세입세출외현금수납 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_non_budget_cash_collection (k_edufine / financial_accounting),,corrected_label,T03145
+S0100,column,교비특회세출예산결산_이용감소금액,edu_expense_special_account_expenditure_appropriation_transfer_decrease_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03148
+S0101,column,교비특회세출예산결산_이체증가금액,edu_expense_special_account_expenditure_transfer_increase_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03149
+S0102,column,교비특회세출예산결산_이체감소금액,edu_expense_special_account_expenditure_transfer_decrease_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03150
+S0103,column,교비특회세출예산결산_예산변경사용증가금액,edu_expense_special_account_expenditure_budget_change_increase_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03151
+S0104,column,교비특회세출예산결산_예산변경사용감소금액,edu_expense_special_account_expenditure_budget_change_decrease_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03152
+S0105,column,교비특회세출예산결산_현재예산금액,edu_expense_special_account_expenditure_current_budget_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03153
+S0106,column,교비특회세출예산결산_원인행위금액,edu_expense_special_account_expenditure_commitment_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03154
+S0107,column,교비특회세출예산결산_지출금액,edu_expense_special_account_expenditure_disbursed_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03155
+S0108,column,교비특별세출_차기년도계속비이월금액,edu_expense_special_account_expenditure_next_year_continuing_cost_carryover_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03156
+S0109,column,교비특회세출예산결산_차기년도명시이월금액,edu_expense_special_account_expenditure_next_year_explicit_carryover_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03157
+S0110,column,교비특회세출예산결산_차기년도사고이월금액,edu_expense_special_account_expenditure_next_year_incident_carryover_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03158
+S0111,column,교비특회세출예산결산_불용금액,edu_expense_special_account_expenditure_unused_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03159
+S0112,column,교비특회세출예산결산_이용증가금액,edu_expense_special_account_expenditure_appropriation_transfer_increase_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03160
+S0113,column,교비특회세출예산결산_전용감소금액,edu_expense_special_account_expenditure_diversion_decrease_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03161
+S0114,column,교비특회세출예산결산_전용증가금액,edu_expense_special_account_expenditure_diversion_increase_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03162
+S0115,column,교비특회세출예산결산_최초예산금액,edu_expense_special_account_expenditure_initial_budget_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03163
+S0116,column,교비특회세출예산결산_추경예산금액,edu_expense_special_account_expenditure_supplementary_budget_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03164
+S0117,column,교비특회세출예산결산_성립전예산금액,edu_expense_special_account_expenditure_pre_establishment_budget_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03165
+S0118,column,교비특회세출예산결산_최종예산금액,edu_expense_special_account_expenditure_final_budget_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03166
+S0119,column,교비특회세출예산결산_계속비이월금액,edu_expense_special_account_expenditure_continuing_cost_carryover_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03167
+S0120,column,교비특회세출예산결산_명시이월금액,edu_expense_special_account_expenditure_explicit_carryover_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03168
+S0121,column,교비특회세출예산결산_사고이월금액,edu_expense_special_account_expenditure_incident_carryover_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03169
+S0122,column,교비특회세출예산결산_예비비증가금액,edu_expense_special_account_expenditure_reserve_fund_increase_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03170
+S0123,column,교비특회세출예산결산_예비비감소금액,edu_expense_special_account_expenditure_reserve_fund_decrease_amount,교육비특별회계세출(예산결산) 데이터셋의 열 (K-에듀파인 / 재무회계),column of dataset special_edu_account_expenditure_budget_settlement (k_edufine / financial_accounting),,corrected_label,T03171
+S0124,column,교육비특별회계세출여부,edu_expense_special_account_expenditure_yn,학교회계세출예산및결산 데이터셋의 열 (K-에듀파인 / 학교회계),column of dataset school_account_expenditure_budget_and_settlement (k_edufine / school_accounting),,corrected_label,T03565
+S0125,column,교육비특별회계세입여부,edu_expense_special_account_revenue_yn,학교회계월별세입결산 데이터셋의 열 (K-에듀파인 / 학교회계),column of dataset school_account_monthly_revenue_settlement (k_edufine / school_accounting),,corrected_label,T03595
+S0126,column,외국인학위취득자수,foreign_student_degree_holder_count,외국인학위취득현황_대학원_공동운영 데이터셋의 열 (고등교육통계 / 학생),column of dataset foreign_degree_conferral_status_graduate_school_jointly_operated (higher_ed_statistics / student),,corrected_label,T04543
+S0127,column,진학_전문대학원_석사학위진학자수,advancement_professional_grad_masters_entrant_count,졸업생진학현황_특수대학원 데이터셋의 열 (대학정보공시 / 졸업후진학및취업현황등학생의진로에관한사항),column of dataset graduate_advancement_status_special_graduate_school (university_disclosure / graduate_advancement_employment_career),,corrected_label,T05986
+S0128,dataset,교원발령및부전공_교직원,teacher_appointment_and_minor_subject_staff,데이터셋명 (교육통계 / 교직원),"dataset name in tab edu_statistics, area faculty_staff",,corrected_label,T06537
+S0129,dataset,교육비특별회계세출_성질별_재정,edu_expense_special_account_expenditure_by_nature_finance,데이터셋명 (교육통계 / 재정),"dataset name in tab edu_statistics, area finance",,corrected_label,T06560
+S0130,dataset,교육비특별회계예결산_재정,edu_expense_special_account_budget_settlement_finance,데이터셋명 (교육통계 / 재정),"dataset name in tab edu_statistics, area finance",,corrected_label,T06561
+S0131,dataset,교육비특별회계불용내역,edu_expense_special_account_unused_details,데이터셋명 (K-에듀파인 / 재무회계),"dataset name in tab k_edufine, area financial_accounting",,corrected_label,T06758
+S0132,dataset,교육비특별회계세입(예산결산),edu_expense_special_account_revenue_budget_settlement,데이터셋명 (K-에듀파인 / 재무회계),"dataset name in tab k_edufine, area financial_accounting",,corrected_label,T06759
+S0133,dataset,교육비특별회계세입세출외현금수납,edu_expense_special_account_non_budget_cash_collection,데이터셋명 (K-에듀파인 / 재무회계),"dataset name in tab k_edufine, area financial_accounting",,corrected_label,T06760
+S0134,dataset,교육비특별회계세입세출외현금지출,edu_expense_special_account_non_budget_cash_disbursement,데이터셋명 (K-에듀파인 / 재무회계),"dataset name in tab k_edufine, area financial_accounting",,corrected_label,T06761
+S0135,dataset,교육비특별회계세출(예산결산),edu_expense_special_account_expenditure_budget_settlement,데이터셋명 (K-에듀파인 / 재무회계),"dataset name in tab k_edufine, area financial_accounting",,corrected_label,T06762
+S0136,dataset,교육비특별회계학교교부통지현황,edu_expense_special_account_school_grant_notice_status,데이터셋명 (K-에듀파인 / 재무회계),"dataset name in tab k_edufine, area financial_accounting",,corrected_label,T06763
+S0137,dataset,외국인학위취득현황_대학원_공동운영,foreign_student_degree_conferral_status_graduate_school_jointly_operated,데이터셋명 (고등교육통계 / 학생),"dataset name in tab higher_ed_statistics, area student",,corrected_label,T06873
+S0138,value,교사,school_building,건물용도명(building_use_name) 열의 범주값,category level of column building_use_name,N,corrected_label,T07221
+S0139,value,교육비 특별회계 예.결산,edu_expense_special_account_budget_settlement,계정구분명(account_type_name) 열의 범주값,category level of column account_type_name,N,corrected_label,T07323
+S0140,value,가지,ga_area,급지구분명(remote_area_level_name) 열의 범주값,category level of column remote_area_level_name,N,corrected_label,T07753
+S0141,value,나지,na_area,급지구분명(remote_area_level_name) 열의 범주값,category level of column remote_area_level_name,N,corrected_label,T07754
+S0142,value,매,sheet,단위구분명(unit_type_name) 열의 범주값,category level of column unit_type_name,N,corrected_label,T07930
+S0143,value,본,piece,단위구분명(unit_type_name) 열의 범주값,category level of column unit_type_name,N,corrected_label,T07931
+S0144,value,교육비 특별회계,edu_expense_special_account,물품회계구분명(goods_account_type_name) 열의 범주값,category level of column goods_account_type_name,N,corrected_label,T08258
+S0145,value,주,week,반복주기구분명(recurrence_cycle_type_name) 열의 범주값,category level of column recurrence_cycle_type_name,N,corrected_label,T08264
+S0146,value,강,steel,선박재질명(vessel_material_name) 열의 범주값,category level of column vessel_material_name,N,corrected_label,T08519
+S0147,value,교육비특별회계이전수입,edu_expense_special_account_transfer_income,세입관명(revenue_chapter_name) 열의 범주값,category level of column revenue_chapter_name,N,corrected_label,T08564
+S0148,value,공유,public_owned,시설환경명(facility_environment_name) 열의 범주값,category level of column facility_environment_name,N,corrected_label,T08902
+S0149,value,공유,public_owned,유치원소유형태명(kindergarten_ownership_type_name) 열의 범주값,category level of column kindergarten_ownership_type_name,N,corrected_label,T09053
+S0150,value,교정,corrections,일반직복수직렬명1(general_service_multiple_job_series_name_1) 열의 범주값,category level of column general_service_multiple_job_series_name_1,N,corrected_label,T09149
+S0151,value,동기(動機),prime_mover,재산구분소분류명(property_type_minor_category_name) 열의 범주값,category level of column property_type_minor_category_name,N,corrected_label,T09380
+S0152,value,학교비회계,school_expense_account,재원구분명(funding_source_type_name) 열의 범주값,category level of column funding_source_type_name,N,corrected_label,T09430
+S0153,value,외국유학생,studying_abroad,졸업후상태구분명(post_graduation_status_type_name) 열의 범주값,category level of column post_graduation_status_type_name,N,corrected_label,T09577
+S0154,value,도서,island,특수지구분명(remote_area_type_name) 열의 범주값,category level of column remote_area_type_name,N,corrected_label,T10005
+S0155,value,전기,first_half,편입생모집시기명(transfer_recruitment_period_name) 열의 범주값,category level of column transfer_recruitment_period_name,N,corrected_label,T10047
+S0156,value,특수학교교(부),special_school_division,학교과정구분명(school_program_type_name) 열의 범주값,category level of column school_program_type_name,N,corrected_label,T10199
+S0157,value,대표간선,indirect_election_by_representatives,학부모위원선출방식명(parent_member_election_method_name) 열의 범주값,category level of column parent_member_election_method_name,N,corrected_label,T10470
+S0158,value,전체직선,direct_election_by_all,학부모위원선출방식명(parent_member_election_method_name) 열의 범주값,category level of column parent_member_election_method_name,N,corrected_label,T10472
+S0159,value,교육비특별회계,edu_expense_special_account,회계구분명(account_type_name) 열의 범주값,category level of column account_type_name,N,corrected_label,T10773
