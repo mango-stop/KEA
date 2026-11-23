@@ -209,7 +209,7 @@ use them. Component-level terms are in `LICENSES.md`.
 
 ## Citation
 
-> Myung, S., Na, H., Lim, M., Hong, H. S., Lee, J., Jo, D., & Kim, H. (2026). *KEA: An English-labelled archive of Korean open education data on schools, universities and school finance* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24185556
+> Myung, S., Na, H. J., Lim, M., Hong, H. S., Lee, J., Jo, D., & Kim, H. (2026). *KEA: An English-labelled archive of Korean open education data on schools, universities and school finance* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24185556
 
 > Ministry of Education & Korea Education and Research Information Service (KERIS).
 > *EduData Service System (EDSS) Open Data.* https://www.edmgr.kr. Retrieved 9 September 2026.
